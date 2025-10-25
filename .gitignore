@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Environments
+venv/
+venv312/
+.env
+
+# Data and cache
+*.json
+policy_db/
+Vectorized - Completed/
+
+# Streamlit
+.streamlit/
+
+# OS
+.DS_Store
